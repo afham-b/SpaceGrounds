@@ -69,6 +69,8 @@ const scriptSrcUrls = [
     "https://kit.fontawesome.com/",
     "https://cdnjs.cloudflare.com/",
     "https://cdn.jsdelivr.net",
+    "https://code.jquery.com/",
+    "http://maxcdn.bootstrapcdn.com/bootstrap/",
 ];
 //This is the array that needs added to
 const styleSrcUrls = [
