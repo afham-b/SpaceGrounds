@@ -134,7 +134,7 @@ body {
   /* Set a background color that will be displayed
   while the background image is loading */
   background-color: black;
-  overflow: auto;
+  overflow: hidden;
 
   /* Location of the image */
   background-image:url('https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3269&q=80') ;
